@@ -11,5 +11,5 @@ P.S. The package size is larger than 1 GB, so we cannot put it on github repo.
 
 Please do not rename the env folder; otherwise, you should update the path in the notebook file.
 
-Note that the env file should on the top of your google drive, just like the screenshot below.
-![path of env](https://github.com/Randyflourish/Intro2AI-Final/assets/94216844/e33b33b7-3a5e-4397-9ee8-bd387fd2e566)
+Note that the env file and model weights should on the top of your google drive, just like the screenshot below.
+![path of env](https://github.com/Randyflourish/Intro2AI-Final/assets/94216844/bcb09108-1190-4c24-a6e9-7b4398c6c2b4)
